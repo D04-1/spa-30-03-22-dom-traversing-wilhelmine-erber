@@ -26,7 +26,6 @@ for(label of labels){
 }
 }
 
-
 // Fügen Sie alle Kinder der .nav-list zur ungeordneten Liste der Fußzeile, .site-map, hinzu. Hinweis: Die .nav-list sollte immer noch ihre Kinder enthalten.
 
 let navList = document.querySelector('.nav-list')
